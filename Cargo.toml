@@ -3,5 +3,5 @@ edition = "2024"
 authors = ["dwardy (dillon.ward.uk@gmail.com)"]
 
 [workspace]
-members = ["day1", "day2"]
+members = ["day1", "day2", "day3"]
 resolver = "3"
